@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="TheLastVoyageOfTheGhostShip" xml:space="preserve">
+    <value>Now they’re going to see who I am, he said to himself in his strong new man’s voice, many years after he had first seen the huge ocean liner without lights and without any sound which passed by the village one night like a great uninhabited place, longer than the whole village and much taller than the steeple of the church, and it sailed by in the darkness toward the colonial city on the other side of the bay that had been fortified against buccaneers, with its old slave port and the rotating light, whose gloomy beams transfigured the village into a lunar encampment of glowing houses and streets of volcanic deserts every fifteen seconds, and even though at that time he’d been a boy without a man’s strong voice but with his’ mother’s permission to stay very late on the beach to listen to the wind’s night harps, he could still remember, as if still seeing it, how the liner would disappear when the light of the beacon struck its side and how it would reappear when the light had passed, so that it was an intermittent ship sailing along, appearing and disappearing, toward the mouth of the bay, groping its way like a sleep‐walker for the buoys that marked the harbor channel, until something must have gone wrong with the compass needle, because it headed toward the shoals, ran aground, broke up, and sank without a single sound, even though a collision against the reefs like that should have produced a crash of metal and the explosion of engines that would have frozen, with fright the soundest‐sleeping dragons in the prehistoric jungle that began with the last streets of the village and ended on the other side of the world, so that he himself thought it was a dream, especially the, next day, when he. saw the radiant fishbowl. of the bay, the disorder of colors of the Negro shacks on the hills above the harbor, the schooners of the smugglers from the Guianas loading their cargoes ‐of innocent parrots whose craws were full of diamonds, he thought, I fell asleep counting the stars and L dreamed about that huge ship, of course, he was so convinced that he didn’t tell anyone nor did he remember the vision again until the same night on the following March when he was looking for the flash of dolphins in the sea and what he found was the illusory line, gloomy, intermittent, with the same mistaken direction as the first time, except that then he was so sure he was awake that he ran to tell his mother and she spent three weeks moaning with disappointment, because your brain’s rotting away from doing so many things backward, sleeping during the day and going out at night like a criminal, and since she had to go to the city around that time to get something comfortable where she could sit and think about her dead husband, because the rockers on her chair had worn out after eleven years of widowhood, she took advantage of the occasion and had the boatman go near the shoals so that her son could see what he really saw in the glass of; the sea, the lovemaking of manta rays in a springtime of sponges, pink snappers and blue corvinas diving into the other wells of softer waters that were there among the waters, and even the wandering hairs of victims of drowning in some colonial shipwreck, no trace of sunken liners of anything like it, and yet he was so pigheaded that his mother promised to watch with him the next March, absolutely, not knowing that the only thing absolute in her future now was an easy chair from the days of Sir Francis Drake which she had bought at an auction in a Turk’s store, in which she sat down to rest that same night sighing, oh, my poor Olofernos, if you could only see how nice it is to think about you on this velvet lining and this brocade from the casket of a queen, but the more she brought back the memory of her dead husband, the more the blood in her heart bubbled up and turned to chocolate, as if instead of sitting down she were running, soaked from chills and fevers and her breathing full of earth, until he returned at dawn and found her dead in the easy chair, still warm, but half rotted away as after a snakebite, the same as happened afterward to four other women before the murderous chair was thrown into the sea, far away where it wouldn’t bring evil to anyone, because it had. been used so much over the centuries that its faculty for giving rest had been used up, and so he had to grow accustomed to his miserable routine of an orphan who was pointed out by everyone as the son of the widow who had brought the throne of misfortune into the village, living not so much from public charity as from fish he stole out of the boats, while his voice was becoming a roar, and not remembering his visions of past times anymore until another night in March when he chanced to look seaward and suddenly, good Lord, there, it is, the huge asbestos whale, the behemoth beast, come see it, he shouted madly, come see it, raising such an uproar of dogs’ barking and women’s panic that even the oldest men remembered the frights of their great‐grandfathers and crawled under their beds, thinking that William Dampier had come back, but those who ran into the street didn’t make the effort to see the unlikely apparatus which at that instant was lost again in the east and raised up in its annual disaster, but they covered him with blows and left him so twisted that it was then he said to himself, drooling with rage, now they’re going to see who I am, but he took care not to share his determination with anyone, but spent the whole year with the fixed idea, now they’re going to see who I am, waiting for it to be the eve of the apparition once more in order to do what he did, which was steal a boat, cross the bay, and spend the evening waiting for his great moment in the inlets of the slave port, in the human brine of the Caribbean, but so absorbed in his adventure that he didn’t stop as he always did in front of the Hindu shops to look at the ivory mandarins carved from the whole tusk of an elephant, nor did he make fun of the Dutch Negroes in their orthopedic velocipedes, nor was he frightened as at other times of the copper‐skinned Malayans, who had gone around the world, enthralled by the chimera of a secret tavern where they sold roast filets of Brazilian women, because he wasn’t aware of anything until night came over him with all the weight of the stars and the jungle exhaled a sweet fragrance of gardenias and rotter salamanders, and there he was, rowing in the stolen boat, toward the mouth of the bay, with the lantern out so as not to alert the customs police, idealized every fifteen seconds by the green wing flap of the beacon and turned human once more by the darkness, knowing that he was getting close to the buoys that marked the harbor, channel, not only because its oppressive glow was getting more intense, but because the breathing of the water was becoming sad, and he rowed like that, so wrapped up in himself, that he. didn’t know where the fearful shark’s breath that suddenly reached him came from or why the night became dense, as if the stars had suddenly died, and it was because the liner was there, with all of its inconceivable size, Lord, bigger than, any other big thing in the world and darker than any other dark thing on land or sea, three hundred thousand tons of shark smell passing so close to the boat that he could see the seams of the steel precipice without a single light in the infinite portholes, without a sigh from the engines, without a soul, and carrying its own circle of silence with it, its own dead air, its halted time, its errant sea in which a whole world of drowned animals floated, and suddenly it all disappeared with the flash of the beacon and for an instant it was the diaphanous Caribbean once more, the March night, the everyday air of the pelicans, so he stayed alone among the buoys, not knowing what to do, asking himself, startled, if perhaps he wasn’t dreaming while he was awake, not just now but the other times too, but no sooner had. he asked himself than a breath of mystery snuffled out the buoys, from the first to the last, so that when the light of the beacon passed by the liner appeared again and now its compasses were out of order, perhaps not even knowing what part of the ocean sea it was in, groping for the invisible channel but actually heading for the shoals, until he got the overwhelming revelation that that misfortune of the buoys was the last key to the enchantment and he lighted the lantern in the boat, a tiny red light that had no reason to alarm anyone in the watch towers but which would be like a guiding sun for the pilot, because, thanks to it, the liner corrected its course and passed into the main gate of the channel in a maneuver of lucky resurrection, and then all the lights went on at the same time so that the boilers wheezed again, the stars were fixed in their places, and the animal corpses went to the bottom, and there was a clatter of plates and a fragrance of laurel sauce in the kitchens, and one could hear the pulsing of the orchestra on the moon decks and the throbbing of the arteries of high‐sea lovers in the shadows of the staterooms, but he still carried so much leftover rage in him that he would not let himself be confused by emotion or be frightened by the miracle, but said to himself with more decision than ever, now they’re going to see who I am, the cowards, now they’re going to see, and instead of turning aside so that the colossal machine would not charge into him he began to row in front of it, because now they really are going to see who I am, and he continued guiding the ship with the lantern until he was so sure of its obedience that he made it change course from the direction of the docks once more, took it out of the invisible channel, and led it by the halter as if it were a sea lamb toward the lights of the sleeping village, a living ship, invulnerable to the torches of the beacon, that no longer made invisible but made it aluminum every fifteen seconds, and the crosses of the church, the misery of the houses, the illusion began to stand out and still the ocean liner followed behind him, following his will inside of it, the captain asleep on his heart side, the fighting bulls in the snow of their pantries, the solitary patient in the infirmary, the orphan water of its cisterns, the unredeemed pilot who must have mistaken the cliffs for the docks, because at that instant the great roar of the whistle burst forth, once, and he with downpour of steam that fell on him, again, and the boat belonging to someone else was on the point of capsizing, and again, but it was too late, because there were the shells of the shoreline, the stones of the street, the doors of the disbelievers, the whole village illuminated by the lights of the fearsome liner itself, and he barely had time to get out of the way to make room for the cataclysm, shouting in the midst of the confusion, there it is, you cowards, a second before the huge steel cask shattered the ground and one could hear the neat destruction of ninety thousand five hundred champagne glasses breaking, one after the other, from stem to stern, and then the light came out and it was no longer a March dawn but the noon of a radiant Wednesday, and he was able to give himself the pleasure of watching the disbelievers as with open mouths they contemplated the largest ocean liner in this world and the other aground in front of the church, whiter than anything, twenty times taller than the steeple and some ninety‐seven times longer than the village, with its name engraved in iron letters, Halalcsillag, and the ancient and languid waters of the sea of death dripping down its sides.</value>
+    <comment>Gabriel Garcia Marquez, “The Last Voyage of the Ghost Ship.” 2156 words.</comment>
+  </data>
+</root>
