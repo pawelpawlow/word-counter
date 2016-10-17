@@ -12,22 +12,17 @@ Simple command-line app that returns a distinct list of words in a sentence and 
 > Then I'm returned a distinct list of words in the sentence and the number of times they have occurred
 
 ## Example
-Input: "This is a statement, and so is this."
+Input: `"This is a statement, and so is this."`
 
 Output:
-
+```
 this - 2
-
 is – 2
-
 a – 1
-
 statement – 1
-
 and – 1
-
 so - 1 
-
+```
 
 ## Solution
 This application tries to count the words in the same way as Microsoft Word does. At the heart of the solution is a RegEx pattern that matches each word in a sentence.
